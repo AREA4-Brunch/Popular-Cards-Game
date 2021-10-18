@@ -10,6 +10,7 @@ https://codepen.io/FlorinPop17/full/vPKWjd
 
 Due to possible future changes of libraries used for the halo animation of vanta.js I decided to download
 current version and save it to a file `./js/vanta_halo_17_10_2021.js`. That code is licensed under a following MIT license:
+
 Copyright 2020 Teng Bao
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:

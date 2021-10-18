@@ -1,5 +1,6 @@
 # Popular-Cards-Game
 Hope you will enjoy this fun card game website, for it to work there first needs to be a database named `qcardsdatabase` and initialised with SQL commands that can be found in `./databases_sql_create_commands.txt`. I used XAMPP.
+In the game in order not to get penalised with 2 cards you have to click the SHOUT button when your current move will leave you with exactly one card. Don't forget to turn it off right afterwards. Hopefully you will figure out the rest on your own.
 
 
 Code, used for the style of sign in/up card on login page, in the file `./css/loginsignupform_style.css` is Florin Pop's and can be found at:

@@ -8,7 +8,7 @@ and at:
 https://codepen.io/FlorinPop17/full/vPKWjd
 
 
-Due to possible future changes of libraries used for the halo animation of vanta.js I decided to download
+Due to possible future changes of libraries used for the halo animation of vanta.js ( from https://www.vantajs.com/?effect=halo ) I decided to download
 current version and save it to a file `./js/vanta_halo_17_10_2021.js`. That code is licensed under a following MIT license:
 
 Copyright 2020 Teng Bao

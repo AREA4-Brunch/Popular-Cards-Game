@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="195.42902mm"
+   height="277.27112mm"
+   viewBox="0 0 195.42902 277.27112"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="card_blue9.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient3056"
+       inkscape:collect="always">
+      <stop
+         id="stop3052"
+         offset="0"
+         style="stop-color:#306bf2;stop-opacity:1;" />
+      <stop
+         id="stop3054"
+         offset="1"
+         style="stop-color:#306bf2;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3048"
+       inkscape:collect="always">
+      <stop
+         id="stop3044"
+         offset="0"
+         style="stop-color:#3085f2;stop-opacity:1;" />
+      <stop
+         id="stop3046"
+         offset="1"
+         style="stop-color:#3085f2;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="843.70685"
+       x2="-215.834"
+       y1="843.70685"
+       x1="-400.03769"
+       id="linearGradient3050"
+       xlink:href="#linearGradient3048"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-843.70685"
+       x2="400.03769"
+       y1="-843.70685"
+       x1="215.834"
+       id="linearGradient3058"
+       xlink:href="#linearGradient3056"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-982.34247"
+       x2="405.65036"
+       y1="-888.34088"
+       x1="262.70673"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3407"
+       xlink:href="#linearGradient3056"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="-2065.4865"
+     inkscape:cy="-934.44379"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(746.31836,-79.06133)">
+    <g
+       id="g3401"
+       transform="translate(-340.668,-626.01002)">
+      <rect
+         style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.46500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3379"
+         width="195.42902"
+         height="277.27112"
+         x="-405.65036"
+         y="705.07135"
+         ry="16.216431" />
+      <rect
+         ry="15.528646"
+         y="710.95123"
+         x="-400.03769"
+         height="265.51126"
+         width="184.20369"
+         id="rect3381"
+         style="opacity:0.98999999;fill:url(#linearGradient3050);fill-opacity:1;stroke:none;stroke-width:1.46500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:0.98999999;fill:url(#linearGradient3058);fill-opacity:1;stroke:none;stroke-width:1.46500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3383"
+         width="184.20369"
+         height="265.51126"
+         x="215.834"
+         y="-976.46246"
+         ry="15.528646"
+         transform="scale(-1)" />
+      <rect
+         transform="scale(-1)"
+         ry="15.528646"
+         y="-976.46246"
+         x="215.834"
+         height="265.51126"
+         width="184.20369"
+         id="rect3385"
+         style="opacity:0.98999999;fill:url(#linearGradient3407);fill-opacity:1;stroke:none;stroke-width:1.46500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.28029633px;line-height:1.25;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-391.77063"
+         y="754.34888"
+         id="text3389"><tspan
+           sodipodi:role="line"
+           id="tspan3387"
+           x="-391.77063"
+           y="754.34888"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.15182877px;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;stroke-width:0.26458332">9</tspan></text>
+      <rect
+         style="opacity:0.98999999;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.86499989;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3391"
+         width="90.458252"
+         height="89.268021"
+         x="-353.16498"
+         y="799.07288"
+         ry="20.516333" />
+      <text
+         id="text3395"
+         y="866.91052"
+         x="-326.54257"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.58667755px;line-height:1.25;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#267eed;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:62.54360962px;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#267eed;fill-opacity:1;stroke-width:0.26458332"
+           y="866.91052"
+           x="-326.54257"
+           id="tspan3393"
+           sodipodi:role="line">9</tspan></text>
+      <text
+         id="text3399"
+         y="-931.44855"
+         x="222.92474"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.28029633px;line-height:1.25;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"
+         transform="scale(-1)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.15182877px;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;stroke-width:0.26458332"
+           y="-931.44855"
+           x="222.92474"
+           id="tspan3397"
+           sodipodi:role="line">9</tspan></text>
+    </g>
+  </g>
+</svg>

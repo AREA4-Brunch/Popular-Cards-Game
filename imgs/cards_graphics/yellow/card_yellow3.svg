@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="195.42902mm"
+   height="277.27112mm"
+   viewBox="0 0 195.42902 277.27112"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="card_yellow3.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4135"
+       inkscape:collect="always">
+      <stop
+         id="stop4131"
+         offset="0"
+         style="stop-color:#dcdd49;stop-opacity:1;" />
+      <stop
+         id="stop4133"
+         offset="1"
+         style="stop-color:#dcdd49;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4127"
+       inkscape:collect="always">
+      <stop
+         id="stop4123"
+         offset="0"
+         style="stop-color:#f2ce30;stop-opacity:1;" />
+      <stop
+         id="stop4125"
+         offset="1"
+         style="stop-color:#f2ce30;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(2238.2483,626.01002)"
+       y2="-1506.5983"
+       x2="400.03769"
+       y1="-1506.5983"
+       x1="215.834"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4232"
+       xlink:href="#linearGradient4135"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-1579.2955"
+       x2="360.48181"
+       y1="-1407.174"
+       x1="230.80109"
+       gradientTransform="translate(2238.2483,626.01002)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4234"
+       xlink:href="#linearGradient4127"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.061871845"
+     inkscape:cx="7007.9437"
+     inkscape:cy="-764.45181"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2643.8987,-741.95276)">
+    <rect
+       ry="16.216431"
+       y="741.95276"
+       x="-2643.8987"
+       height="277.27112"
+       width="195.42902"
+       id="rect4204"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.46500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:0.98999999;fill:#f2b930;fill-opacity:1;stroke:none;stroke-width:1.46500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4206"
+       width="184.20369"
+       height="265.51126"
+       x="-2638.2859"
+       y="747.83264"
+       ry="15.528646" />
+    <rect
+       transform="scale(-1)"
+       ry="15.528646"
+       y="-1013.3439"
+       x="2454.0823"
+       height="265.51126"
+       width="184.20369"
+       id="rect4208"
+       style="opacity:0.98999999;fill:url(#linearGradient4232);fill-opacity:1;stroke:none;stroke-width:1.46500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:0.98999999;fill:url(#linearGradient4234);fill-opacity:1;stroke:none;stroke-width:1.46500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4210"
+       width="184.20369"
+       height="265.51126"
+       x="2454.0823"
+       y="-1013.3439"
+       ry="15.528646"
+       transform="scale(-1)" />
+    <text
+       id="text4214"
+       y="791.23022"
+       x="-2630.019"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.28029633px;line-height:1.25;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.15182877px;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;stroke-width:0.26458332"
+         y="791.23022"
+         x="-2630.019"
+         id="tspan4212"
+         sodipodi:role="line">3</tspan></text>
+    <rect
+       ry="20.516333"
+       y="835.95422"
+       x="-2591.4133"
+       height="89.268021"
+       width="90.458252"
+       id="rect4216"
+       style="opacity:0.98999999;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.86499989;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.58667755px;line-height:1.25;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f1bb33;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-2564.7908"
+       y="903.79187"
+       id="text4220"><tspan
+         sodipodi:role="line"
+         id="tspan4218"
+         x="-2564.7908"
+         y="903.79187"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:62.54360962px;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f1bb33;fill-opacity:1;stroke-width:0.26458332">3</tspan></text>
+    <text
+       transform="scale(-1)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.28029633px;line-height:1.25;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2461.1731"
+       y="-968.32996"
+       id="text4224"><tspan
+         sodipodi:role="line"
+         id="tspan4222"
+         x="2461.1731"
+         y="-968.32996"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.15182877px;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;stroke-width:0.26458332">3</tspan></text>
+  </g>
+</svg>

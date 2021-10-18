@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="195.42902mm"
+   height="277.27112mm"
+   viewBox="0 0 195.42902 277.27112"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="card_red7.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1677"
+       inkscape:collect="always">
+      <stop
+         id="stop1673"
+         offset="0"
+         style="stop-color:#d01a33;stop-opacity:1;" />
+      <stop
+         id="stop1675"
+         offset="1"
+         style="stop-color:#d01a33;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1656"
+       inkscape:collect="always">
+      <stop
+         id="stop1652"
+         offset="0"
+         style="stop-color:#ca3e18;stop-opacity:1;" />
+      <stop
+         id="stop1654"
+         offset="1"
+         style="stop-color:#ca3e18;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1633-4-9"
+       inkscape:collect="always">
+      <stop
+         id="stop1629"
+         offset="0"
+         style="stop-color:#ca182f;stop-opacity:1;" />
+      <stop
+         id="stop1631"
+         offset="1"
+         style="stop-color:#ca182f;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-966.0453,-626.01002)"
+       y2="2231.6353"
+       x2="-215.834"
+       y1="2231.6353"
+       x1="-400.03769"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1907"
+       xlink:href="#linearGradient1633-4-9"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-2231.6355"
+       x2="130.63"
+       y1="-2231.6355"
+       x1="-53.573677"
+       gradientTransform="translate(1235.4529,626.01026)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1909"
+       xlink:href="#linearGradient1656"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(966.0452,626.01002)"
+       y2="-2332.0237"
+       x2="252.15884"
+       y1="-2121.8689"
+       x1="345.89694"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1911"
+       xlink:href="#linearGradient1677"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.061871845"
+     inkscape:cx="8441.879"
+     inkscape:cy="2258.052"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1371.6957,-1466.9897)">
+    <rect
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.46500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1864"
+       width="195.42902"
+       height="277.27112"
+       x="-1371.6957"
+       y="1466.9897"
+       ry="16.216431" />
+    <rect
+       ry="15.528646"
+       y="1472.8696"
+       x="-1366.083"
+       height="265.51126"
+       width="184.20369"
+       id="rect1866"
+       style="opacity:0.98999999;fill:url(#linearGradient1907);fill-opacity:1;stroke:none;stroke-width:1.46500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:0.98999999;fill:url(#linearGradient1909);fill-opacity:1;stroke:none;stroke-width:1.46500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1868"
+       width="184.20369"
+       height="265.51126"
+       x="1181.8792"
+       y="-1738.3809"
+       ry="15.528646"
+       transform="scale(-1)" />
+    <rect
+       transform="scale(-1)"
+       ry="15.528646"
+       y="-1738.3809"
+       x="1181.8792"
+       height="265.51126"
+       width="184.20369"
+       id="rect1870"
+       style="opacity:0.98999999;fill:url(#linearGradient1911);fill-opacity:1;stroke:none;stroke-width:1.46500003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.28029633px;line-height:1.25;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-1357.8159"
+       y="1516.2673"
+       id="text1874"><tspan
+         sodipodi:role="line"
+         id="tspan1872"
+         x="-1357.8159"
+         y="1516.2673"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.15182877px;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;stroke-width:0.26458332">7</tspan></text>
+    <rect
+       style="opacity:0.98999999;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.86499989;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1876"
+       width="90.458252"
+       height="89.268021"
+       x="-1319.2102"
+       y="1560.9915"
+       ry="20.516333" />
+    <text
+       id="text1880"
+       y="1628.8291"
+       x="-1292.5879"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.58667755px;line-height:1.25;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f00c1b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:62.54360962px;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f00c1b;fill-opacity:1;stroke-width:0.26458332"
+         y="1628.8291"
+         x="-1292.5879"
+         id="tspan1878"
+         sodipodi:role="line">7</tspan></text>
+    <text
+       id="text1884"
+       y="-1693.3672"
+       x="1188.97"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.28029633px;line-height:1.25;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       transform="scale(-1)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.15182877px;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;stroke-width:0.26458332"
+         y="-1693.3672"
+         x="1188.97"
+         id="tspan1882"
+         sodipodi:role="line">7</tspan></text>
+  </g>
+</svg>

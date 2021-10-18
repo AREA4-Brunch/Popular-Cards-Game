@@ -1,0 +1,168 @@
+
+html, body {
+    margin: 0;
+    top: 0;
+    overflow: hidden;  /* gets rid off scrollbars */
+    font-family: "Montserrat";
+    font-size: 14px;
+    height: 100vh;
+    color: #fafafa;
+    background-color: rgb(26, 34, 84);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+}
+
+
+p {
+    font-size: 12px;
+}
+
+.jump-in-icon {
+    position: fixed;
+    top: 25px;
+    left: 25px;
+}
+
+.quit-form {
+    position: fixed;
+    top: 15px;
+    right: 15px;
+}
+
+
+.quit-btn {
+    height: 50px !important;
+    background-color: #507ed494 !important;
+    color: rgb(218, 168, 32) !important;
+    align-items: center;
+}
+
+
+#shoutBtn {
+    position: fixed;
+    top: 40vh;
+    left: 25vw;
+    color: rgb(218, 168, 32) !important;
+}
+
+
+.logodiv {
+    position: fixed;
+    margin-top: 0;
+    padding-top: 0;
+    top: 25vh;
+    left: 33vw;
+    text-align: center;
+    max-width: 33vw;
+    height: 24vh;
+}
+
+
+.logodiv img {
+    max-width: 100%;
+    max-height: 170px;
+    width: 100%;
+    height: 20vh;
+    opacity: 0.8;
+}
+
+
+.players-row {
+    text-align: center;
+    margin-top: 7vh;
+}
+
+
+.player-icon {
+    height: 7vh;
+    width: 7vh;
+    position: absolute;
+}
+
+
+.player6 {
+    position: absolute !important;
+    top: 18vh;
+}
+
+
+.player8 {
+    position: absolute !important;
+    top: 33vh;
+}
+
+
+#userIconText {
+    color: rgb(212, 152, 61);
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0vh;
+    left: 0vh;
+    display: inline-block;
+}
+
+
+.cards-ul {
+    display: flex;
+    width: 90vw;
+    margin-top: 25px;
+    height: 33vh;
+    margin-bottom: 0 !important;
+    background-color: transparent !important;
+    border: none !important;
+    left: 5vw !important;
+}
+
+
+.cards-ul li {
+    border-bottom: none;
+    border-top: none;
+    margin-right: 5px !important;
+    padding: 0 0 0 0 !important;
+    min-width: 125px !important;
+    width: 14vw !important;
+    text-align: center !important;
+    background-color: transparent !important;
+    color: whitesmoke !important;
+    border-bottom: 0px !important;
+}
+
+
+.scroll-left {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 33vh !important;
+    align-self: center !important;
+    width: 5vw;
+}
+
+
+.scroll-right {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 33vh !important;
+    align-self: center !important;
+    width: 5vw;
+}
+
+
+.modal-content {
+    background: #131314;
+    /*background: -webkit-linear-gradient(#500e8d, #2356b6);
+    background: linear-gradient(to right, #7226b9, #2356b6);*/
+    color: rgb(13, 172, 172);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+}
+
+
+.modal-content h5 {
+    color: seashell;
+}

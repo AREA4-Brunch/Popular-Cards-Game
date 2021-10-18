@@ -1,0 +1,150 @@
+
+html, body {
+    margin: 0;
+    top: 0;
+    overflow: hidden;
+    font-family: "Montserrat";
+    font-size: 14px;
+    height: 100vh;
+    color: #fafafa;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+}
+
+.mylogo {
+    height: 60px;
+}
+
+.toprow {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.username-text {
+    font-size: 22px;
+    text-align: right;
+    padding-top: 4px;
+}
+
+.logout-text {
+    font-size: 12px;
+    margin-top: 0;
+    padding-top: 1px; 
+}
+
+.modal-content {
+    background: #3a6186;
+    background: -webkit-linear-gradient(#552d7a, #2356b6);
+    background: linear-gradient(to right, #552d7a, #2356b6);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+}
+
+
+.table-row {
+    margin-top: 100px;
+}
+
+.table {
+    max-width: 600px;
+    font-size: 13px;
+    align-content: center;
+}
+
+@media screen and (max-width: 992px) {
+    .table {
+        max-width: 450px;
+    }
+}
+
+thead {
+    font-size: 17px;
+    padding-bottom: 18px;
+}
+
+table .tr {
+    width: 33%;
+    font-size: 14px;
+}
+
+table.highlight>tbody>tr:hover {
+    background-color: rgba(144, 48, 223, 0.158) !important;
+}
+
+.card-form {
+    max-width: 200px;
+}
+
+button[type="submit"] {
+    font-weight: 800 !important;
+}
+
+.form-container {
+    color: #fafafa;
+    max-width: 225px;
+}
+
+.form-heading {
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.input-field input[type=text] {
+    color: #fafafa;
+    margin-top: 0;
+}
+
+
+.input-field input[type=number] {
+    color: #fafafa;
+    margin-top: 0;
+}
+
+::placeholder {
+    color: white !important; 
+}
+
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #6a1b9a  !important;
+    box-shadow: 0 1px 0 0 #6a1b9a  !important;
+  }
+
+.input-field input[type=text].invalid {
+    border-bottom: 1px solid red;
+    box-shadow: 0 1px 0 0 red;
+}
+
+
+.input-field input[type=number]:focus {
+    border-bottom: 1px solid #6a1b9a  !important;
+    box-shadow: 0 1px 0 0 #6a1b9a  !important;
+  }
+
+.input-field input[type=number].invalid {
+    border-bottom: 1px solid red;
+    box-shadow: 0 1px 0 0 red;
+}
+
+.helper-text {
+    color: #e91c22 !important;
+    font-size: 12px !important;
+    font-weight: 1000 !important;
+}
+
+.host-game-switch {
+    margin-top: 30px;
+}
+
+.host-game-switch label .lever {
+    background-color: #507ed494 !important;
+}
+
+.host-game-switch label input[type=checkbox]:checked+.lever {
+    background-color: #784fbba4 !important;
+}
+
+.host-game-switch label input[type=checkbox]:checked+.lever:after {
+    background-color: #8047c2 !important;
+}

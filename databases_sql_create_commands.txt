@@ -1,0 +1,48 @@
+// Name of the database should be: `qcardsdatabase`
+
+// FOR THE USERS TABLE:
+
+
+CREATE TABLE `users` (
+  `idUsers` int(11) NOT NULL AUTO_INCREMENT,
+  `uidUsers` tinytext NOT NULL,
+  `emailUsers` tinytext NOT NULL,
+  `pwdUsers` longtext NOT NULL,
+  PRIMARY KEY (`idUsers`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4
+
+
+
+// FOR THE GAMES TABLE:
+
+
+CREATE TABLE `games` (
+  `idGames` int(11) NOT NULL AUTO_INCREMENT,
+  `uidGames` int(11) NOT NULL,
+  `pwdGames` longtext NOT NULL,
+  `titleGames` tinytext NOT NULL,
+  `jumpInVotes` tinytext NOT NULL,
+  `maxPlayers` tinyint(4) NOT NULL,
+  `joinedPlayers` tinyint(4) NOT NULL,
+  `curRoundPlayers` tinytext NOT NULL,
+  `curPlayerIdx` char(4) NOT NULL,
+  `timeRanOut` tinytext NOT NULL,
+  `lastTwoCards` tinytext NOT NULL,
+  `direction` char(2) NOT NULL,
+  `deck` text NOT NULL,
+  `wasPenaltyPayed` char(2) NOT NULL,
+  `hasDrawn` char(1) NOT NULL,
+  `player1` text NOT NULL,
+  `player2` text NOT NULL,
+  `player3` text NOT NULL,
+  `player4` text NOT NULL,
+  `player5` text NOT NULL,
+  `player6` text NOT NULL,
+  `player7` text NOT NULL,
+  `player8` text NOT NULL,
+  `player9` text NOT NULL,
+  `player10` text NOT NULL,
+  `player11` text NOT NULL,
+  `player12` text NOT NULL,
+  PRIMARY KEY (`idGames`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4

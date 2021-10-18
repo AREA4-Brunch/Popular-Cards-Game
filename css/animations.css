@@ -1,0 +1,39 @@
+
+@media (max-aspect-ratio: 3/2) {
+    .anim-circle {
+        --aspect-ratio: 1.5;  /* 16/9 */
+    }
+}
+
+@media (max-aspect-ratio: 4/3) {
+    .anim-circle {
+        --aspect-ratio: 1.33;
+    }
+}
+
+@media (max-aspect-ratio: 16/9) {
+    .anim-circle {
+        --aspect-ratio: 1.8;
+    }
+}
+
+@media (min-aspect-ratio: 17/9) {
+    .anim-circle {
+        --aspect-ratio: 2.0;
+    }
+}
+
+
+.anim-circle {
+    --circle-radius: 1vh;
+    visibility: hidden;
+    height: 14vw;
+    width: 14vw;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    background-color: rgb(26, 34, 84);  /*rgb(26, 34, 84)*/
+    border-radius: 50%;
+    display: inline-block;
+    z-index: 999;
+}

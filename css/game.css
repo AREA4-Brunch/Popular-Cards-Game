@@ -1,0 +1,260 @@
+
+html, body {
+    margin: 0;
+    top: 0;
+    overflow: hidden;  /* gets rid off scrollbars */
+    font-family: "Montserrat";
+    font-size: 14px;
+    height: 100vh;
+    color: #fafafa;
+    background-color: rgb(26, 34, 84);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+}
+
+
+canvas {
+    position: fixed;
+    border-radius: 33%;
+    max-width: 30vw;
+    max-height: 35vh;
+    top: 20vh;
+    left: 35vw;
+}
+
+
+.winner-text {
+    position: fixed;
+    left: 50vw;
+    top: 33vh;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding-bottom: 15px;
+    font-style: italic;
+}
+
+
+p {
+    font-size: 12px;
+}
+
+.jump-in-icon {
+    position: fixed;
+    top: 25px;
+    left: 25px;
+}
+
+.quit-form {
+    position: fixed;
+    top: 15px;
+    right: 15px;
+}
+
+
+.quit-btn {
+    height: 50px !important;
+    background-color: #507ed494 !important;
+    color: rgb(218, 168, 32) !important;
+    align-items: center;
+}
+
+
+#shoutBtn {
+    position: fixed;
+    top: 40vh;
+    left: 25vw;
+    color: rgb(218, 168, 32) !important;
+}
+
+
+.logodiv {
+    position: fixed;
+    margin-top: 0;
+    padding-top: 0;
+    top: 25vh;
+    left: 33vw;
+    text-align: center;
+    max-width: 33vw;
+    height: 24vh;
+}
+
+
+.logodiv img {
+    max-width: 100%;
+    max-height: 170px;
+    width: 100%;
+    height: 20vh;
+    opacity: 0.8;
+}
+
+
+.cards-deck {
+    position: fixed;
+    top: 33vh;  /* 25vh when not fullscreen */
+    right: 22.5vw;
+    max-width: 10vw;
+    text-align: center;
+}
+
+
+.cards-deck img {
+    max-width: 100%;
+    height: 185px;
+    width: 100%;
+}
+
+
+.card-on-table {
+    position: fixed;
+    top: 33vh;
+    right: 45vw;
+    height: 185px;
+    width: 120px;
+}
+
+
+.players-row {
+    text-align: center;
+    margin-top: 7vh;
+}
+
+
+.player-icon {
+    height: 7vh;
+    width: 7vh;
+    position: fixed;
+    margin-left: 20px;
+}
+
+
+.player6 {
+    position: absolute !important;
+    top: 20vh;
+}
+
+
+.player8 {
+    position: absolute !important;
+    top: 35vh;
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0vh;
+    left: 0vh;
+    display: inline-block;
+}
+
+
+.cards-ul {
+    display: flex;
+    width: 90vw;
+    margin-top: 25px;
+    height: 28vh;
+    margin-bottom: 0 !important;
+    background-color: transparent !important;
+    border: none !important;
+    left: 5vw !important;
+}
+
+
+.cards-ul li {
+    border-bottom: none;
+    border-top: none;
+    margin-right: 5px !important;
+    padding: 0 0 0 0 !important;
+    min-width: 175px !important;
+    max-width: 180px;
+    width: 14vw !important;
+    text-align: center !important;
+    background-color: transparent !important;
+    color: whitesmoke !important;
+    border-bottom: 0px !important;
+}
+
+
+.users_card {
+    height: 100%;
+    max-width: 175px;
+}
+
+
+.scroll-left {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 28vh !important;
+    align-self: center !important;
+    width: 5vw;
+}
+
+
+.scroll-right {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    height: 28vh !important;
+    align-self: center !important;
+    width: 5vw;
+}
+
+
+#modal1::-webkit-scrollbar {
+    display: none;
+}
+  
+#modal1 {
+    -ms-overflow-style: none;
+}
+
+.modal-content {
+    background: #131314;
+    /*background: -webkit-linear-gradient(#500e8d, #2356b6);
+    background: linear-gradient(to right, #7226b9, #2356b6);*/
+    color: rgb(13, 172, 172);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    overflow: hidden !important;
+}
+
+
+.modal-content .headings {
+    color: seashell !important;
+    font-size: 25px;
+}
+
+
+.modal-content input {
+    color: seashell;
+}
+
+.jump-in-vote {
+    display: none;
+    position: fixed !important;
+    max-width: 190px !important;
+    top: 15px !important;
+    left: 65px !important;
+}
+
+#toast-container {  /* container for toast that is generated while they last*/
+    top: 50px !important;
+    right: 50vw !important;
+    margin-bottom: 15px !important;
+}
+
+
+.colour-row {
+    width: 100%;
+    height: 50%;
+}
+
+.colour-col{
+    /*margin-left: 18vh !important;*/
+    width: 25vh;
+    height: 25vh !important;
+    float: left;
+}
